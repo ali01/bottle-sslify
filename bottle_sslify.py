@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+__version__ = '0.0.1'
+__author__ = 'Ali Yahya'
+__email__ = 'alive@athena.ai'
+
 
 from bottle import hook, redirect, request
 
