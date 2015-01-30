@@ -40,8 +40,7 @@ setup(
   include_package_data=True,
   platforms='any',
   install_requires=[
-    'bottle==0.10.11',
-    'nose==1.2.1',
+    'bottle==0.10.11'
   ],
   classifiers=[
     'Environment :: Web Environment',
