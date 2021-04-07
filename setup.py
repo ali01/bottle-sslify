@@ -40,7 +40,7 @@ setup(
   include_package_data=True,
   platforms='any',
   install_requires=[
-    'bottle==0.10.11',
+    'bottle==0.12.19',
     'nose==1.2.1',
   ],
   classifiers=[
