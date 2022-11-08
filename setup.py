@@ -24,7 +24,7 @@ try:
   except ImportError:
     readme = open('README.md').read()
 except:
-  print 'something went wrong reading the README.md file.'
+  print('something went wrong reading the README.md file.')
   readme = ''
 
 setup(
